@@ -1,4 +1,14 @@
 # AWS
+This repository is for me to experiment with AWS Cloud. Refer to the Supplemental folder for the necessary downloads.
+
+## Topics Covered
+1. KMeans
+2. PCA
+3. IAM
+4. Sagemaker
+5. Lex
+6. Lambda
+7. Testing Lambdas
 
 ## Slides
 
